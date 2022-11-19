@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Blockchain Devlopment Projects 
-- 🌱 I’m currently learning backend devlopment
+- 🔭 I’m currently working on Blockchain Development Projects 
+- 🌱 I’m currently learning backend development
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking forward to meet some awesome developers
 - 💬 Ask me about Blockchain
