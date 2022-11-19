@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking forward to meet some awesome developers
 - 💬 Ask me about Blockchain
-- 📫 Reach Me at : <a href="swarupyeole11@gmail.com">GMail</a>&nbsp;<a href="https://www.linkedin.com/in/swarupyeole/">Linkedin</a>
+- 📫 Reach Me at : <a href="swarupyeole11@gmail.com">Gmail</a>&nbsp;<a href="https://www.linkedin.com/in/swarupyeole/">Linkedin</a>
 - 😄 Pronouns: He/His
 
 
