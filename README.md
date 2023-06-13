@@ -17,7 +17,7 @@
 
 <div align="center">
   
- ![Github stats](https://github-readme-stats.vercel.app/api?username=swarupyeole11&bg_color=black&show_icons=true&count_private=true)
+<!--  ![Github stats](https://github-readme-stats.vercel.app/api?username=swarupyeole11&bg_color=black&show_icons=true&count_private=true) -->
  
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=swarupyeole11&layout=compact)
   
